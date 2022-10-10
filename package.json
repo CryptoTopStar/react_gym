@@ -1,0 +1,40 @@
+{
+  "name": "takeoff",
+  "version": "1.0.0",
+  "description": "Next",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/"
+  },
+  "author": "Sam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/"
+  },
+  "homepage": "https://github.com/",
+  "dependencies": {
+    "@badrap/bar-of-progress": "^0.1.2",
+    "next": "11.1.0",
+    "react": "17.0.2",
+    "react-dom": "17.0.2"
+  },
+  "devDependencies": {
+    "autoprefixer": "10.3.3",
+    "classnames": "2.3.1",
+    "postcss": "8.3.6",
+    "postcss-100vh-fix": "1.0.2",
+    "postcss-flexbugs-fixes": "5.0.2",
+    "postcss-hover-media-feature": "1.0.1",
+    "postcss-preset-env": "6.7.0",
+    "prettier": "^2.3.2",
+    "stylelint": "^13.13.1",
+    "stylelint-config-recommended": "^5.0.0",
+    "tailwindcss": "2.2.8"
+  }
+}
